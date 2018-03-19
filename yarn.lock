@@ -7965,9 +7965,9 @@ webpack-dev-server@^3.1.1:
     webpack-log "^1.1.2"
     yargs "9.0.1"
 
-webpack-features@^3.16.0:
-  version "3.16.0"
-  resolved "https://registry.yarnpkg.com/webpack-features/-/webpack-features-3.16.0.tgz#64b27f8d753d1da93014eadd99b921d6a7aa71f2"
+webpack-features@^3.16.2:
+  version "3.16.2"
+  resolved "https://registry.yarnpkg.com/webpack-features/-/webpack-features-3.16.2.tgz#cb90a0cdf2aee2fc4b1e497336feabae021d1ed1"
   dependencies:
     "@babel/cli" "^7.0.0-beta.39"
     "@babel/core" "^7.0.0-beta.39"
