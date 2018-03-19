@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],[function(n,e){document.getElementById("app").innerHTML="Welcome to Modern Javascript Starter!"},function(n,e,o){n.exports=o(0)}],[[1,0]]]);
