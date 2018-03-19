@@ -1,0 +1,26 @@
+{
+  "name": "modern-javascript-starter",
+  "version": "1.0.0",
+  "description": "Modern javascript development environment with maximum comfort",
+  "main": "index.js",
+  "author": "Aleksand Snov <snov.contact@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "cross-env NODE_ENV=production webpack --config=webpack.config.js",
+    "serve": "static static",
+    "dev": "webpack-dev-server --inline --hot --hot-only"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.0",
+    "eslint-config-dqnt": "^2.1.2",
+    "node-static": "^0.7.10",
+    "prettier": "^1.11.1",
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.12",
+    "webpack-dev-server": "^3.1.1",
+    "webpack-features": "^3.16.0"
+  },
+  "dependencies": {
+    "cross-env": "^5.1.4"
+  }
+}
