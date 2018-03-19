@@ -14,7 +14,7 @@ MJS is a minimalistic modern development environment for JavaScript projects.
 
 Copy paste these lines into your terminal, ok?
 ```sh
-git clone github.com/Noviel/modern-javascript-starter
+git clone https://github.com/Noviel/modern-javascript-starter
 cd modern-javascript-starter
 git remote rm origin
 yarn install
