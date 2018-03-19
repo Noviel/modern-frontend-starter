@@ -34,7 +34,7 @@ yarn dev
 - `eslint` and `prettier` = linting and formatting
 - `webpack` and stuff = building, bundling and stuff
 
-Go to `webpack.config.js` in the root directory. You can see that MJS is powered by [webpack-features](github.com/Noviel/webpack-features). So check it out if you wanna some tweaks on webpack's config. You can easily turn on support of React, Flow, TypeScript, Scss, less and other cool stuff.
+Go to `webpack.config.js` in the root directory. You can see that MJS is powered by [webpack-features](https://github.com/Noviel/webpack-features). So check it out if you wanna some tweaks on webpack's config. You can easily turn on support of React, Flow, TypeScript, Scss, less and other cool stuff.
 
 ## I am really wanna React, TypeScript, Scss, less and other cool stuff
 
@@ -115,4 +115,4 @@ module.exports = base({
 ```
 
 ### Other stuff
-Checkout [webpack-features](github.com/Noviel/webpack-features) documentation. You can easily extend configuration with whatever you want.
+Checkout [webpack-features](https://github.com/Noviel/webpack-features) documentation. You can easily extend configuration with whatever you want.
