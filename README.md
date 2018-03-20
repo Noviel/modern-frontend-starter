@@ -1,6 +1,6 @@
-# Modern JavaScript Starter
+# Modern Frontend Starter
 
-MJS is a minimalistic modern development environment for JavaScript projects.
+MFS is a minimalistic modern development environment for frontend.
 
 - 10/10 developer experience
 - Start hacking in a blink of an eye
@@ -14,8 +14,8 @@ MJS is a minimalistic modern development environment for JavaScript projects.
 
 Copy paste these lines into your terminal, ok?
 ```sh
-git clone https://github.com/Noviel/modern-javascript-starter
-cd modern-javascript-starter
+git clone https://github.com/Noviel/modern-frontend-starter
+cd modern-frontend-starter
 git remote rm origin
 yarn install
 yarn dev
@@ -34,7 +34,7 @@ yarn dev
 - `eslint` and `prettier` = linting and formatting
 - `webpack` and stuff = building, bundling and stuff
 
-Go to `webpack.config.js` in the root directory. You can see that MJS is powered by [webpack-features](https://github.com/Noviel/webpack-features). So check it out if you wanna some tweaks on webpack's config. You can easily turn on support of React, Flow, TypeScript, Scss, less and other cool stuff.
+Go to `webpack.config.js` in the root directory. You can see that MFS is powered by [webpack-features](https://github.com/Noviel/webpack-features). So check it out if you wanna some tweaks on webpack's config. You can easily turn on support of React, Flow, TypeScript, Scss, less and other cool stuff.
 
 ## I am really wanna React, TypeScript, Scss, less and other cool stuff
 

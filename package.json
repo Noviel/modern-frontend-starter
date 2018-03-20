@@ -1,7 +1,7 @@
 {
-  "name": "modern-javascript-starter",
+  "name": "modern-frontend-starter",
   "version": "1.0.0",
-  "description": "Modern javascript development environment with maximum comfort",
+  "description": "Modern frontend development environment with maximum comfort",
   "main": "index.js",
   "author": "Aleksand Snov <snov.contact@gmail.com>",
   "license": "MIT",
@@ -18,7 +18,7 @@
     "webpack": "^4.1.1",
     "webpack-cli": "^2.0.12",
     "webpack-dev-server": "^3.1.1",
-    "webpack-features": "^3.16.2"
+    "webpack-features": "^3.17.0"
   },
   "dependencies": {
     "cross-env": "^5.1.4"
