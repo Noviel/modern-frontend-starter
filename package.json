@@ -1,8 +1,8 @@
 {
-  "name": "modern-frontend-starter",
-  "version": "1.0.0",
-  "description": "Modern frontend development environment with maximum comfort",
-  "main": "index.js",
+  "name": "modern-javscript-starter",
+  "version": "1.0.1",
+  "description": "Modern javscript development environment with maximum comfort",
+  "main": "src/index.js",
   "author": "Aleksand Snov <snov.contact@gmail.com>",
   "license": "MIT",
   "scripts": {
@@ -15,10 +15,10 @@
     "eslint-config-dqnt": "^2.1.2",
     "node-static": "^0.7.10",
     "prettier": "^1.11.1",
-    "webpack": "^4.1.1",
+    "webpack": "^4.5.0",
     "webpack-cli": "^2.0.12",
     "webpack-dev-server": "^3.1.1",
-    "webpack-features": "^3.17.0"
+    "webpack-features": "^3.17.2"
   },
   "dependencies": {
     "cross-env": "^5.1.4"
