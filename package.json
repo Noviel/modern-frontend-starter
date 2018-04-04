@@ -1,7 +1,7 @@
 {
-  "name": "modern-javscript-starter",
+  "name": "modern-frontend-starter",
   "version": "1.0.1",
-  "description": "Modern javscript development environment with maximum comfort",
+  "description": "Modern frontend development environment with maximum comfort",
   "main": "src/index.js",
   "author": "Aleksand Snov <snov.contact@gmail.com>",
   "license": "MIT",
